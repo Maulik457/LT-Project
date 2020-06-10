@@ -1,0 +1,13 @@
+m to km of 100.5
+km to m of 150
+ft to inch of 24.2
+inch to km of 767
+km to inch of 1
+msec to kmhr of 1
+s to hr of 60
+inch to kmhr of 12.5
+s to inch of 60 
+msec to ft of 12
+
+
+
