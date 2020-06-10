@@ -1,2 +1,2 @@
-# LT-Projecr
+# LT-Project
 Time , Length And Velocity Converter 
